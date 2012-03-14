@@ -1,0 +1,1 @@
+A fork of [Torcelly's TCard Demo App](http://torcelly.com/?p=1) to Macruby. Provides a demo for doing perspective stuff in Core Animation. For more details see the original post at [http://torcelly.com/?p=1](http://torcelly.com/?p=1)

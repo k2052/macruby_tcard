@@ -1,0 +1,100 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		8A1B446A1510844700CBF2C1 /* application.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = application.rb; sourceTree = "<group>"; };
+		8A1B446B1510844700CBF2C1 /* MainWindow.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = MainWindow.rb; sourceTree = "<group>"; };
+		8A1B446C1510844700CBF2C1 /* menu.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = menu.rb; sourceTree = "<group>"; };
+		8A1B446D1510844700CBF2C1 /* TCardView.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = TCardView.rb; sourceTree = "<group>"; };
+		8A1B446F1510844700CBF2C1 /* HotCocoa.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = HotCocoa.icns; sourceTree = "<group>"; };
+		8A1B44701510844700CBF2C1 /* MainMenu.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainMenu.xib; sourceTree = "<group>"; };
+		8A1B44711510844700CBF2C1 /* Photo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Photo.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		8A1B445D1510840300CBF2C1 = {
+			isa = PBXGroup;
+			children = (
+				8A1B44691510844700CBF2C1 /* lib */,
+				8A1B446E1510844700CBF2C1 /* resources */,
+			);
+			sourceTree = "<group>";
+		};
+		8A1B44691510844700CBF2C1 /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				8A1B446A1510844700CBF2C1 /* application.rb */,
+				8A1B446B1510844700CBF2C1 /* MainWindow.rb */,
+				8A1B446C1510844700CBF2C1 /* menu.rb */,
+				8A1B446D1510844700CBF2C1 /* TCardView.rb */,
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
+		8A1B446E1510844700CBF2C1 /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				8A1B446F1510844700CBF2C1 /* HotCocoa.icns */,
+				8A1B44701510844700CBF2C1 /* MainMenu.xib */,
+				8A1B44711510844700CBF2C1 /* Photo.jpg */,
+			);
+			path = resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		8A1B445F1510840300CBF2C1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 8A1B44621510840300CBF2C1 /* Build configuration list for PBXProject "TCard" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 8A1B445D1510840300CBF2C1;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		8A1B44641510840400CBF2C1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		8A1B44651510840400CBF2C1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8A1B44621510840300CBF2C1 /* Build configuration list for PBXProject "TCard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A1B44641510840400CBF2C1 /* Debug */,
+				8A1B44651510840400CBF2C1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8A1B445F1510840300CBF2C1 /* Project object */;
+}
